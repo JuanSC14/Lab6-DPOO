@@ -1,0 +1,1 @@
+Para correr el programa, simplemente debe hacerse click derecho sobre la clase VentanaPrincipal y escoger la opción Run as -> Java Application. Con eso, el programa ya correrá y todas las funcionalidades se podrán usar mediante la interfaz.
